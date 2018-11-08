@@ -1,0 +1,9 @@
+[submodule "slump_server"]
+	path = slump_server
+	url = https://github.com/blacknikka/slump_server.git
+[submodule "laradock"]
+	path = laradock
+	url = https://github.com/blacknikka/laradock.git
+[submodule "slump_front"]
+	path = slump_front
+	url = https://github.com/blacknikka/slump_front.git
